@@ -48,3 +48,13 @@
     <Process Command="vivado.bat" Owner="souza" Host="DESKTOP-04VK81S" Pid="12728" HostCore="20" HostMemory="034142150656">
     </Process>
 </ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="souza" Host="DESKTOP-04VK81S" Pid="30636" HostCore="20" HostMemory="034142150656">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="souza" Host="DESKTOP-04VK81S" Pid="13916" HostCore="20" HostMemory="034142150656">
+    </Process>
+</ProcessHandle>
